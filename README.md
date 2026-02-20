@@ -2,9 +2,7 @@
 
 > AML & Money Muling Ring Detection powered by **NetworkX**, **FastAPI**, **React 18**, and **Cytoscape.js**
 
-> 🔗 **Live Demo :**
-
-> 🔗 **Live Website :** https://forensic-pulse.vercel.app/
+> 🔗 **Live Website :** https://forensic-pulse-eight.vercel.app/
 ---
 
 ## Project Title
